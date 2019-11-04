@@ -12,3 +12,4 @@ if [[ $TRAVIS_BRANCH == 'master' ]]
 then
     ./terraform apply -auto-approve
 fi
+#
